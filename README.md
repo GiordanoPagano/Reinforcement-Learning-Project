@@ -1,6 +1,6 @@
 # Reinforcement-Learning-Project
 
-- Syrine Enneifer 2049467
+- Jacopo Tedeschi 1882789
 - Giordano Pagano 2077179
 
 
